@@ -1,0 +1,243 @@
+
+
+<HTML xmlns:x="urn:schemas-microsoft-com:office:excel">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <META HTTP-EQUIV="Expires" CONTENT="0">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><style>
+         <!-- 
+.xl24    {mso-style-parent:style0;   mso-number-format:"Short Date";}.xl25    {mso-style-parent:style0;   mso-number-format:"General Date";} 
+--></style></head>
+   <BODY>
+      <TABLE border="1">
+         <TR>
+            <TD style="font-weight : bold">Transaction Type</TD>
+            <TD style="font-weight : bold">Description</TD>
+            <TD style="font-weight : bold">Line</TD>
+            <TD style="font-weight : bold">Prompt Description</TD>
+            <TD style="font-weight : bold">Prompt Sequence</TD>
+            <TD style="font-weight : bold">Next Prompt</TD>
+            <TD style="font-weight : bold">Archive Column</TD>
+            <TD style="font-weight : bold">Interface Type</TD>
+            <TD style="font-weight : bold">Upload Column</TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="5">5</TD>
+            <TD x:str="USER ID">USER ID</TD>
+            <TD x:num="1">1</TD>
+            <TD x:num="2">2</TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="10">10</TD>
+            <TD x:str="EQUIP #">EQUIP #</TD>
+            <TD x:num="2">2</TD>
+            <TD x:num="3">3</TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="11">11</TD>
+            <TD x:str="EQUIP ORG">EQUIP ORG</TD>
+            <TD x:num="3">3</TD>
+            <TD x:num="4">4</TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="12">12</TD>
+            <TD x:str="UOM Y/N">UOM Y/N</TD>
+            <TD x:num="4">4</TD>
+            <TD x:num="5">5</TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="13">13</TD>
+            <TD x:str="UOM">UOM</TD>
+            <TD x:num="5">5</TD>
+            <TD x:num="8">8</TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="20">20</TD>
+            <TD x:str="METER NAME">METER NAME</TD>
+            <TD x:num="6">6</TD>
+            <TD x:num="7">7</TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="21">21</TD>
+            <TD x:str="METER ORG">METER ORG</TD>
+            <TD x:num="7">7</TD>
+            <TD x:num="8">8</TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="30">30</TD>
+            <TD x:str="CURRENT READING">CURRENT READING</TD>
+            <TD x:num="8">8</TD>
+            <TD x:num="9">9</TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="40">40</TD>
+            <TD x:str="DIFFERENCE">DIFFERENCE</TD>
+            <TD x:num="9">9</TD>
+            <TD x:num="2">2</TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str=""></TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="100">100</TD>
+            <TD x:str="EQUIP TYPE">EQUIP TYPE</TD>
+            <TD x:num=""></TD>
+            <TD x:num=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str="READ">READ</TD>
+            <TD x:str="C005">C005</TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="110">110</TD>
+            <TD x:str="EQUIP ORG">EQUIP ORG</TD>
+            <TD x:num=""></TD>
+            <TD x:num=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str="READ">READ</TD>
+            <TD x:str="C269">C269</TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="120">120</TD>
+            <TD x:str="ORG">ORG</TD>
+            <TD x:num=""></TD>
+            <TD x:num=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str="READ">READ</TD>
+            <TD x:str="C267">C267</TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="190">190</TD>
+            <TD x:str="USER ID">USER ID</TD>
+            <TD x:num=""></TD>
+            <TD x:num=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str="READ">READ</TD>
+            <TD x:str="C019">C019</TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="200">200</TD>
+            <TD x:str="EQUIP #">EQUIP #</TD>
+            <TD x:num=""></TD>
+            <TD x:num=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str="READ">READ</TD>
+            <TD x:str="C004">C004</TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="210">210</TD>
+            <TD x:str="METER NAME">METER NAME</TD>
+            <TD x:num=""></TD>
+            <TD x:num=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str="READ">READ</TD>
+            <TD x:str="C225">C225</TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="220">220</TD>
+            <TD x:str="CURRENT READING">CURRENT READING</TD>
+            <TD x:num=""></TD>
+            <TD x:num=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str="READ">READ</TD>
+            <TD x:str="C228">C228</TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="230">230</TD>
+            <TD x:str="DIFFERENCE">DIFFERENCE</TD>
+            <TD x:num=""></TD>
+            <TD x:num=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str="READ">READ</TD>
+            <TD x:str="C226">C226</TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="240">240</TD>
+            <TD x:str="DATE">DATE</TD>
+            <TD x:num=""></TD>
+            <TD x:num=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str="READ">READ</TD>
+            <TD x:str="C109">C109</TD>
+         </TR>
+         <TR>
+            <TD x:str="M210">M210</TD>
+            <TD x:str="Collect Meter Reading">Collect Meter Reading</TD>
+            <TD x:num="250">250</TD>
+            <TD x:str="UOM">UOM</TD>
+            <TD x:num=""></TD>
+            <TD x:num=""></TD>
+            <TD x:str=""></TD>
+            <TD x:str="READ">READ</TD>
+            <TD x:str="C023">C023</TD>
+         </TR>
+      </TABLE>
+   </BODY>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <META HTTP-EQUIV="Expires" CONTENT="0">
+   </head>
+</HTML>
+
+
